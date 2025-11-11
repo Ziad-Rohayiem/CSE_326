@@ -1,11 +1,4 @@
-## CSE_326 - Analysis and Design of Algorithms
-## Course Instructor: Dr. Walid Gomaa
-## ALG-S2023-04
-
 # CSE 326 - Primality Testing and Prime Number Analysis
-
-**Algorithms Course Project**  
-*Submitted to: Dr. Walid Gomaa*
 
 ## Authors
 - Ahmad Mongy (120200033)
@@ -289,7 +282,7 @@ analyze_twin_primes(max_n=10**8, sample_interval=10**5)
 ---
 
 **Course:** CSE 326 - Algorithms  
-**Academic Year:** 2020-2021
+**Academic Year:** 2022-2023
 
 ![Logo](assets/logo.png)
 
